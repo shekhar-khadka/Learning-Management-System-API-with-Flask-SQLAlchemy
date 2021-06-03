@@ -40,4 +40,4 @@ Install the requirements: `pip install -r requirements.txt`
 
 
 
-##Run the Flask Server using  `flask run`
+## Run the Flask Server using  `flask run`
