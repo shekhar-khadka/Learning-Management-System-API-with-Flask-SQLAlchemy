@@ -1,4 +1,4 @@
- # Learning Management System
+ # Learning Management System Flask-SQLAlchemy API
 
 Install the requirements: `pip install -r requirements.txt`
 
